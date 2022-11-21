@@ -1,0 +1,9 @@
+22-11-2022:
+
+*Why python
+*Diff btwn c, c++ and python
+*Features of python
+*OOP
+*Installation
+*IDE
+*History of python
