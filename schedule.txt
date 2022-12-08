@@ -1,4 +1,4 @@
-07-11-2022:(https://python-by-examples.readthedocs.io/en/latest/)
+07-12-2022:(https://python-by-examples.readthedocs.io/en/latest/)
 
 *Why python
 *Diff btwn c, c++ and python
@@ -6,3 +6,9 @@
 *Installation
 *IDE
 *History of python
+
+08-12-2022:
+
+*.py and .pyc files
+*Operators
+*Loops
