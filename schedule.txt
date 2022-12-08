@@ -7,8 +7,14 @@
 *IDE
 *History of python
 
-08-12-2022:
+08-12-2022:(https://python-by-examples.readthedocs.io/en/latest/operators/arithmetic/)
 
 *.py and .pyc files
-*Operators
-*Loops
+* Arthimetic Operators
+* Assignment Operators 
+
+Exercises:
+---------
+
+1.Write a program to print the output of modulus of two variables(x,y) i.e. 10,3 and multiple the output with 8.
+2.Write a program to print the output of exponential of a variable (x) i.e 5 and then add with the output with 100.
