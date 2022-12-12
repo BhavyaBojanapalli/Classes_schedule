@@ -18,3 +18,14 @@ Exercises:
 
 1.Write a program to print the output of modulus of two variables(x,y) i.e. 10,3 and multiple the output with 8.
 2.Write a program to print the output of exponential of a variable (x) i.e 5 and then add with the output with 100.
+
+12-12-2022:
+
+*Git clone,push and commit with commands
+*Create a fork and create a MR to main repository
+*Logical and Assignment operators(https://python-by-examples.readthedocs.io/en/latest/operators/logical/)
+
+Exercise:
+--------
+*Write a program to check if x is divided by y and y is divided by z(print 'true' and else 'false')(x=100, y =10 and z=5)
+*Write a program to check x and y is equal and then update y value and check the condition again (x= 20, y=20 and then update y=30)
