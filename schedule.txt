@@ -29,3 +29,13 @@ Exercise:
 --------
 *Write a program to check if x is divided by y and y is divided by z(print 'true' and else 'false')(x=100, y =10 and z=5)
 *Write a program to check x and y is equal and then update y value and check the condition again (x= 20, y=20 and then update y=30)
+
+13-12-2022:(https://python-by-examples.readthedocs.io/en/latest/loops/while/)
+
+*While loop with examples
+*Identity, membership and Bitwise operators.
+
+Exercise:
+--------
+*Write a program to count number of 'a' characters in the string 'aishwarya' with while and if loop.
+*Write a program to print numbers in reverse order i.e n=5 output is (4,3,2,1,0)
