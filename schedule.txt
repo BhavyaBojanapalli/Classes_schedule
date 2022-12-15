@@ -39,3 +39,26 @@ Exercise:
 --------
 *Write a program to count number of 'a' characters in the string 'aishwarya' with while and if loop.
 *Write a program to print numbers in reverse order i.e n=5 output is (4,3,2,1,0)
+
+15-12-2022:(https://python-by-examples.readthedocs.io/en/latest/datatypes/list/list/)
+
+*While loop with if else programs discussion
+*Program to print the reverse order
+*List data structure and its methods
+
+Exercise:
+--------
+
+*Write a program to count the number of 1's and 0's in the given string (I/P: '110001010') 0/P: 1's: 4 and 0's:5
+*Write a program for the below methods:
+Input : names = ["Sanjay", "Ramesh", "Suresh", "Ravi"]
+nums = [1,2,3]
+  * Join two lists
+  * Sort the list
+  * Append the name "Ravi" to the list
+  * Copy the list to another list named "mixed"
+  * Clear the list names
+  * Reverse the list
+  * Remove the element "suresh"
+  * remove the element at index 4
+  * Insert an element "Raja" and index 3
