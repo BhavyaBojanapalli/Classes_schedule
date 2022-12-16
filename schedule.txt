@@ -62,3 +62,19 @@ nums = [1,2,3]
   * Remove the element "suresh"
   * remove the element at index 4
   * Insert an element "Raja" and index 3
+  
+  16-12-2022:
+  *For loop with examples
+  *For loop with conditions
+  *For with break and continue
+  *Programs of while with if and else loop.
+  
+  Exercise:
+  ---------
+  *Write a program to print all the characters in the word "Aishwarya"
+  *Write a program to print all the even numbers up to n ( n is the input n=10)
+  *Write a program to append all the Capital letters in a string to "caps" list and all the small letters to "small" named list(Input="ABcDefGHij")
+  *Write a program to print the below pattern
+        *
+      *   *
+    *   *   *
