@@ -78,3 +78,36 @@ nums = [1,2,3]
         *
       *   *
     *   *   *
+
+19-12-2022:
+-----------
+*Nested for loops
+
+20-12-2022:
+-----------
+*Nested for loops with lists
+
+Exercise:
+--------
+*Write a program to change the list elements adding 0th row elements in the output
+
+Input: list1 = [[3, 5, 1, 6],[1, 0, 9, 5],[4, 14, 22, 17]]
+
+Output: [[3, 1, 4], [5, 0, 14], [1, 9, 22], [6, 5, 17]]
+
+
+*Write a program to to print myList = [[1, 2, 3, 4, 5], [12, 13, 23], [10, 20, 30], [11, 22, 33], [12, 24, 36]]
+output:
+[1, 2, 3, 4, 5]
+[12, 13, 23]
+[10, 20, 30]
+[11, 22, 33]
+[12, 24, 36]
+
+*Write a program to print the below output 
+languages = ['Swift', 'Python', 'Go', 'JavaScript']
+output:
+Swift
+My fav programming language
+Go
+JavaScript
