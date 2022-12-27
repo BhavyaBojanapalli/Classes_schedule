@@ -111,3 +111,14 @@ Swift
 My fav programming language
 Go
 JavaScript
+
+23-12-2022:
+-----------
+*Discussed about the exercise questions and tuple with examples on tuples.
+*Conversion of list to tuples and tuples to list and predefined functions of tuples.
+
+
+27-12-2022:
+-----------
+*Discussed regarding tuples and programs on tuples
+*Started the dict data type.
