@@ -128,4 +128,15 @@ JavaScript
 *Discussed regarding the dict and its predefined methods.
 *Written programs with the predefined methods.
 
+Exercises:
+--------
+*Write a program to print all the values in a dict using for loop
 
+Example :dictionary = {
+   'Novel': 'Pride and Prejudice',
+   'year': '1813',
+   'author': 'Jane Austen',
+   'character': 'Elizabeth Bennet'
+}
+
+*Write a program to print all the keys in a dict using for loop
