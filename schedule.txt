@@ -122,3 +122,10 @@ JavaScript
 -----------
 *Discussed regarding tuples and programs on tuples
 *Started the dict data type.
+
+30-12-2022:
+----------
+*Discussed regarding the dict and its predefined methods.
+*Written programs with the predefined methods.
+
+
