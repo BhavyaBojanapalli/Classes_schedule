@@ -140,3 +140,22 @@ Example :dictionary = {
 }
 
 *Write a program to print all the keys in a dict using for loop
+
+2-1-2023:
+---------
+
+*Practiced many programes on dict
+*Even discussed on nested dict and how to access values out of nested dicts
+
+3-1-2023:
+------
+*Sets and predefined methods of sets
+*Programs on sets
+
+Exercises:
+---------
+
+*Take input s={1,2,3,4} o/p should be "Total length:4" without using len() predefined method
+*Write a program to find the sum of values in dict 
+   Example : Input : {‘a’: 100, ‘b’:200, ‘c’:300}
+             Output : 600
