@@ -3,12 +3,16 @@
       *   *
     *   *   *"""
 def star(n):
-  for i in range(n):
-    for j in range(i+1):
-        print(" * ", end='')
-    print()
+  for i in range(1,n):
+      print(' '*n, end='') #space for n times
+      print('* ' *(i))  #repeat star for i times
+      n-=1
+
 
 def main():
-    n=3
-    star(3)
+    n=4
+    star(4)
 main()
+
+
+

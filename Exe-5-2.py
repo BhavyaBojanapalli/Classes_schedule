@@ -1,20 +1,26 @@
 #Write a program to print all the even numbers up to n ( n is the input n=10)
 
-num = 10
-count = 0
+"""num = 10
 for i in range(num):
-     count+=1
-     if count%2 == 0:
-        print(count)
+     if num%2 == 0:
+        print(count)"""
 
 
-"""def test(n, count):
+"""def test(n):
     for i in range(n):
-        count+=1
-    if count%2 == 0:
-        print(count)
+        if i%2 == 0:
+            print(i)
 def main():
     n= 10
-    count = 0
-    test(n,count)
+    test(n)
 main()"""
+
+def test(n):
+    for i in range(n):
+        if i%2 != 0:
+            print(i)
+
+def main():
+    n= 20
+    test(n)
+main()

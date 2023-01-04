@@ -16,13 +16,29 @@ def case(input1):
   for i in input1:
     if i.isupper():
         caps.append(i)
-        print("caps :",i)
     else:
-        small.append(i)
-        print("small :",i)
+      small.append(i)
+  print(small)
+  print(caps)
 def main():
     case(input1)
 main()
+
+char=[]
+num=[]
+a = "ab87dcnd90"
+def test(a):
+    for i in a:
+        if i.islower():
+            char.append(i)
+        else:
+            num.append(i)
+    print(char)
+    print(num)
+def main():
+    test(a)
+main()
+
 
 
 
