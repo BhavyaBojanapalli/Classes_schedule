@@ -159,3 +159,21 @@ Exercises:
 *Write a program to find the sum of values in dict 
    Example : Input : {‘a’: 100, ‘b’:200, ‘c’:300}
              Output : 600
+             
+4-1-2023:
+---------
+*Programs on Dict with values and keys
+
+Exercises:
+---------
+*Write a program to divide the values of the dict by 5 and print all key and values in the dict and print sum of all values
+
+i/p: {'a':10,'b':20,'c':30,'d':40}
+op: {'a':2,'b':4,'c':6,'d':8}
+sum=20
+
+*Write a program to check if values are > 5 then append all the keys in the list and then sort the list.
+
+i/p: {'a':1,'b':8,'c':3,'d':7}
+
+o/p:[7,8]
